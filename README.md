@@ -34,19 +34,13 @@ Currently improving skills in:
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ziyodullaevalisherhoja-sys&show_icons=true&theme=tokyonight"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziyodullaevalisherhoja-sys&layout=compact&theme=tokyonight"/>
-</p>
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
 <a href="https://t.me/al1sher_0203">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
