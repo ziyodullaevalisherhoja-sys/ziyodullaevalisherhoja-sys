@@ -47,7 +47,7 @@ Currently improving skills in:
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://t.me/ТВОЙ_USERNAME">
+<a href="(https://t.me/al1sher_0203)">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
 </p>
