@@ -40,7 +40,7 @@ Currently improving skills in:
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="https://t.me/Ziyodullaev02">
+<a href="https://t.me/xoja0203">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
 </p>
